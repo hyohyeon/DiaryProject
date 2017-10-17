@@ -10,6 +10,7 @@
 	SELECT *
 	FROM MEMBER
 	WHERE MID=#{mId} AND PASSWD=#{passwd}
+	
 	</select>
 </mapper>
  
