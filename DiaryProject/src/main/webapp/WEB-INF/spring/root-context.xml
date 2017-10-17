@@ -23,7 +23,7 @@
 		class="org.springframework.jdbc.datasource.DriverManagerDataSource">
 		<property name="driverClassName" value="oracle.jdbc.OracleDriver" />
 		<property name="url" value="jdbc:oracle:thin:@localhost:1521:orcl" />
-		<property name="username" value="hyohyeon" /><!-- 접속할 계정 아이디 수정해서 사용 -->
+		<property name="username" value="hr" /><!-- 접속할 계정 아이디 수정해서 사용 -->
 		<property name="password" value="0000" /><!-- 비밀번호 수정해서 사용 -->
 	</bean>
 
@@ -49,10 +49,10 @@
 
 	<!-- InterFace MyBatis -->
 
-<!-- 	<bean id="memberMapper" class="org.mybatis.spring.mapper.MapperFactoryBean">
-	<property name="mapperInterface" value="com.example.mapper.MemberMapper"/>
+ 	<bean id="memberMapper" class="org.mybatis.spring.mapper.MapperFactoryBean">
+	<property name="mapperInterface" value="com.project.mapper.MemberMapper"/>
 	<property name="sqlSessionFactory" ref="sqlSessionFactory" />
-	</bean> -->
+	</bean> 
 
 	<!-- END -->
 

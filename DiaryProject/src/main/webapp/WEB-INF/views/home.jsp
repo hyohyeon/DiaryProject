@@ -33,7 +33,7 @@
                   <i class="fa fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="diary/resources/img/portfolio/cabin.png" alt="">
+              <img class="img-fluid" src="resources/img/portfolio/cabin.png" alt="">
             </a>
           </div>
           <div class="col-sm-4 portfolio-item">
@@ -43,7 +43,7 @@
                   <i class="fa fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="diary/resources/img/portfolio/cake.png" alt="">
+              <img class="img-fluid" src="resources/img/portfolio/cake.png" alt="">
             </a>
           </div>
           <div class="col-sm-4 portfolio-item">
@@ -53,7 +53,7 @@
                   <i class="fa fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="diary/resources/img/portfolio/circus.png" alt="">
+              <img class="img-fluid" src="/img/portfolio/circus.png" alt="">
             </a>
           </div>
           <div class="col-sm-4 portfolio-item">
@@ -63,7 +63,7 @@
                   <i class="fa fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="diary/resources/img/portfolio/game.png" alt="">
+              <img class="img-fluid" src="/img/portfolio/game.png" alt="">
             </a>
           </div>
           <div class="col-sm-4 portfolio-item">
@@ -73,7 +73,7 @@
                   <i class="fa fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="diary/resources/img/portfolio/safe.png" alt="">
+              <img class="img-fluid" src="/img/portfolio/safe.png" alt="">
             </a>
           </div>
           <div class="col-sm-4 portfolio-item">
@@ -83,7 +83,7 @@
                   <i class="fa fa-search-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="diary/resources/img/portfolio/submarine.png" alt="">
+              <img class="img-fluid" src="/img/portfolio/submarine.png" alt="">
             </a>
           </div>
         </div>
@@ -135,7 +135,7 @@
                 <div class="modal-body">
                   <h2>Project Title</h2>
                   <hr class="star-primary">
-                  <img class="img-fluid img-centered" src="diary/resources/img/portfolio/cabin.png" alt="">
+                  <img class="img-fluid img-centered" src="/img/portfolio/cabin.png" alt="">
                   <p>Use this area of the page to describe your project. The icon above is part of a free icon set by
                     <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                   <ul class="list-inline item-details">
@@ -179,7 +179,7 @@
                 <div class="modal-body">
                   <h2>Project Title</h2>
                   <hr class="star-primary">
-                  <img class="img-fluid img-centered" src="diary/resources/img/portfolio/cake.png" alt="">
+                  <img class="img-fluid img-centered" src="/img/portfolio/cake.png" alt="">
                   <p>Use this area of the page to describe your project. The icon above is part of a free icon set by
                     <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                   <ul class="list-inline item-details">
@@ -223,7 +223,7 @@
                 <div class="modal-body">
                   <h2>Project Title</h2>
                   <hr class="star-primary">
-                  <img class="img-fluid img-centered" src="diary/resources/img/portfolio/circus.png" alt="">
+                  <img class="img-fluid img-centered" src="/img/portfolio/circus.png" alt="">
                   <p>Use this area of the page to describe your project. The icon above is part of a free icon set by
                     <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                   <ul class="list-inline item-details">
@@ -267,7 +267,7 @@
                 <div class="modal-body">
                   <h2>Project Title</h2>
                   <hr class="star-primary">
-                  <img class="img-fluid img-centered" src="diary/resources/img/portfolio/game.png" alt="">
+                  <img class="img-fluid img-centered" src="/img/portfolio/game.png" alt="">
                   <p>Use this area of the page to describe your project. The icon above is part of a free icon set by
                     <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                   <ul class="list-inline item-details">
@@ -311,7 +311,7 @@
                 <div class="modal-body">
                   <h2>Project Title</h2>
                   <hr class="star-primary">
-                  <img class="img-fluid img-centered" src="diary/resources/img/portfolio/safe.png" alt="">
+                  <img class="img-fluid img-centered" src="/img/portfolio/safe.png" alt="">
                   <p>Use this area of the page to describe your project. The icon above is part of a free icon set by
                     <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                   <ul class="list-inline item-details">
@@ -355,7 +355,7 @@
                 <div class="modal-body">
                   <h2>Project Title</h2>
                   <hr class="star-primary">
-                  <img class="img-fluid img-centered" src="img/portfolio/submarine.png" alt="">
+                  <img class="img-fluid img-centered" src="/img/portfolio/submarine.png" alt="">
                   <p>Use this area of the page to describe your project. The icon above is part of a free icon set by
                     <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                   <ul class="list-inline item-details">

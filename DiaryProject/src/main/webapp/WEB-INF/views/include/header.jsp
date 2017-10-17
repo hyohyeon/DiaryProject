@@ -38,7 +38,8 @@
 <!-- Contact Form JavaScript -->
 <script src="/diary/resources/js/jqBootstrapValidation.js"></script>
 <script src="/diary/resources/js/contact_me.js"></script>
-
+<!-- login -->
+<script src="/diary/resources/js/login.js"></script>
 <!-- Custom scripts for this template -->
 <script src="/diary/resources/js/freelancer.min.js"></script>
 
